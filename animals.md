@@ -1,0 +1,36 @@
+# Animals, singulaar
+ainmhí - animal 
+peata - pet
+eilifint - elephant 
+éan - bird
+madra - dog
+turtar - turtle
+rón - seal
+capall - horse
+cat - cat
+lacha - duck 
+béar - bear 
+damhán alla - spider 
+Portán - crab
+luch - mouse 
+ulchabhán - owl 
+leon - lion 
+moncaí - monkey 
+tíogar - tiger
+féileacán - butterfly 
+fia - deer
+sionnach - fox
+coinín - rabbit
+capall - horse 
+béar - bear
+
+# Animals, plural
+ainmhithe - animals
+peataí - pets
+cait - cats
+lucha - mice
+capaill - horses
+madraí - dogs
+turtair - turtles
+béir - bears
+leoin - lions
