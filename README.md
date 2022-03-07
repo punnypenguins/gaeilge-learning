@@ -8,3 +8,4 @@ Home for my vocabulary lists and any found resources while studying Irish.
 - [Duolingo wiki](https://duolingo.fandom.com/wiki/)
 - [Irish word bank](https://www.101languages.net/irish/irish-word-list/)
 - [Butt Gaeilge](https://toingaeilge.com/)
+- [Fluent in 3 months](https://www.fluentin3months.com/irish-language/)
